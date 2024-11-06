@@ -1,4 +1,4 @@
-
+![logo](https://github.com/SaveeraReddy/saveeravajrala/blob/main/Red%20World%20Art%20Day%20(Banner%20(Landscape)).png)
 <h1 align="center">Hi 👋, I'm SaveeraVajrala</h1>
 <h3 align="center">I am passionate in Data Science</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
