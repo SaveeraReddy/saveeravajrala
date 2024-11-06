@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm SaveeraVajrala</h1>
 <h3 align="center">I am passionate in Data Science</h3>
-<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw3CvOWoBACeiDrdB9ZZLdiq&ust=1730969218938000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODS3YCpx4kDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" scr="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 
 <a href="https://app.daily.dev/saveera"><img src="https://api.daily.dev/devcards/v2/kIkarEfP0oToYgN4AbjWL.png?type=default&r=e1h" width="356" alt="Saveera's Dev Card"/></a>
