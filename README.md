@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm SaveeraVajrala</h1>
 <h3 align="center">I am passionate in Data Science</h3>
+<a href="https://app.daily.dev/saveera"><img src="https://api.daily.dev/devcards/v2/kIkarEfP0oToYgN4AbjWL.png?type=default&r=e1h" width="356" alt="Saveera's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saveerareddy&label=Profile%20views&color=0e75b6&style=flat" alt="saveerareddy" /> </p>
 
